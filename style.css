@@ -1,0 +1,32 @@
+﻿body {
+  background-color: #141023;
+  color: WHITE;
+  font-family: sans-serif;
+  font-size:small;
+    
+}
+
+/* unvisited link */
+a:link {
+  color: White;
+}
+
+/* border for table */
+td.special { border: 2px double #202A6E; padding: 10px; color:teal;}
+
+/* border for table */
+td.special2 { border: 2px double #202A6E; padding: 2px; color:teal;}
+
+
+/* vertically align text */   
+center.vertical {
+  vertical-align: text-bottom;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+<style>
+
